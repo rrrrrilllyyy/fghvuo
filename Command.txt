@@ -1,0 +1,2 @@
+open Silicoin-Qt.app --args -testnet -connect= 192.168.178.34 &
+open Silicoin-Qt.app --args -testnet -connect= 192.168.178.26 &

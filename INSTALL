@@ -1,0 +1,9 @@
+Building Silicoin
+
+See doc/readme-qt.rst for instructions on building Silicoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Silicoin.
+
+See doc/build-*.txt for instructions on building silicoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Silicoin.
